@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/cloud_canvas/BuildConfig.java
+ com.example.cloud_canvas.BuildConfig
